@@ -24,6 +24,8 @@ pip install bs4
 
 pip install rich
 
+rm -rf Spy-Green
+
 git clone https://github.com/SPY-1x1/Spy-Green
 
 cd Spy-Green
