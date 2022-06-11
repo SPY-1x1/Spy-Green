@@ -39,7 +39,7 @@ You need parmation to use this tools...
 
 Normal aproval system 
 
-bypass kore boko pro houyar kicu nai😪
+bypass kore nije k boro pro vabar kicu nai😪
 
 be friendly be happy💖💖
 
